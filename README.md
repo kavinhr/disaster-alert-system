@@ -1,6 +1,6 @@
 #  seismic-app
 
-> **[FILL IN A ONE-LINE DESCRIPTION HERE. For example: "A modern, responsive dashboard for tracking and visualizing global seismic activity in real-time." or "A PWA for receiving earthquake alerts."]**
+> 
 
 ## ✨ Features
 
